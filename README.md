@@ -1,5 +1,8 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/shahnigarek/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 This repository contains my **DevOps Capstone Project**, developed as part of the **IBM DevOps and Software Engineering Professional Certificate**.
 
 The project focuses on building, testing, containerizing, and deploying a microservice while applying modern DevOps practices. It includes REST API development, Test-Driven Development (TDD), automated testing, CI/CD pipelines, Docker, Kubernetes, and OpenShift. The project also emphasizes maintaining high code quality and achieving at least **95% code coverage**.
